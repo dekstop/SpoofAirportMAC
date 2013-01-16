@@ -1,0 +1,6 @@
+{
+    Description      = "SpoofAirportMAC";
+    Provides         = ("SpoofAirportMAC.sh");
+    Requires         = ("Network", "Disks");
+    OrderPreference  = "None";
+}
