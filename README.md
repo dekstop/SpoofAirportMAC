@@ -34,7 +34,7 @@ The script will automatically execute at boot time.
 
 To execute it manually:
 ```bash
-sudo launchctl start de.dekstop.SpoofAirportMAC.plist
+sudo launchctl start de.dekstop.SpoofAirportMAC
 ```
 
 Output is logged in /var/log/system.log
